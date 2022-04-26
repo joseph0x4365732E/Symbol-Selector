@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "loadSymbolNamesStringFromFile(hasNames:):SymbolPickerView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "symbolNamesForShortLeaves">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #4 in SymbolPickerView.SymbolStemView.body.getter:SymbolPickerView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "String.neighborSymbolStems.getter:StringExtension.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&quot;text&quot;.neighbors">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #6 in loadSymbolNamesStringFromFile(hasNames:):SymbolPickerView.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
